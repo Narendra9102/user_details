@@ -18,4 +18,43 @@ This is a web application that allows users to add and view user details.
 ## Setup Instructions
 
 1. **Clone the Repository**:
+   https://github.com/Narendra9102/user_details.git
+
+2. **Install Dependencies**:
+  pip install python
+  pip install django
+  npm install bootstrap
+  npm install jquery
+
+3. **Run the Application**:
+  python manage.py runserver
+
+
+4. **Access the Application**:
+
+Open your web browser and go to [http://localhost:8000](http://localhost:8000).
+
+## Usage
+
+1. **Add User**:
+- Click on the "Add User" link in the navigation bar.
+- Fill out the form with the user's details and click "Submit".
+
+2. **View User Details**:
+- Click on the "User Details" link in the navigation bar.
+- You'll see a list of all added users along with their details.
+
+## Screenshots
+
+![Add User](screenshots/add_user.png)
+![User Details](screenshots/user_details.png)
+
+
+
+
+
+
+
+
+
 
