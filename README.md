@@ -46,6 +46,7 @@ Open your web browser and go to [http://localhost:8000](http://localhost:8000).
 
 ## Screenshots
 
+(https://github.com/Narendra9102/user_details/assets/141741512/59bf3304-902c-4486-a793-d45dd96bdc07)
 
 
 
