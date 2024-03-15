@@ -1,0 +1,14 @@
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white !important;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: black !important;
+    background-color: greenyellow;
+    border-radius: 15px;
+}
+
+.actived {
+    background-color: orange !important;
+}

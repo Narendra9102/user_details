@@ -1,0 +1,21 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="{% static 'css/home.css' %}">
+</head>
+<body>
+{% include 'index.html' %}
+<div class="welcome-container">
+    <h1 class="welcome-heading">Welcome to Our Application</h1>
+    <p class="welcome-text">Get started by managing your users efficiently and effectively.</p>
+    <div class="actions">
+        <a href="{% url 'add_user' %}" class="action-button add-user">Add User</a>
+        <a href="{% url 'user_details' %}" class="action-button view-details">View User Details</a>
+    </div>
+</div>
+</body>
+</html>
