@@ -21,18 +21,23 @@ This is a web application that allows users to add and view user details.
    [https://github.com/Narendra9102/user_details.git](https://github.com/Narendra9102/user_details.git)
 
 2. **Install Dependencies**:
+   
   pip install python
+  
   pip install django
+  
   npm install bootstrap
+  
   npm install jquery
 
-3. **Run the Application**:
+4. **Run the Application**:
+   
   python manage.py runserver
 
 
-4. **Access the Application**:
+6. **Access the Application**:
 
-Open your web browser and go to [http://localhost:8000](http://localhost:8000).
+   Open your web browser and go to         [http://localhost:8000]                 (http://localhost:8000).
 
 ## Usage
 
