@@ -22,17 +22,17 @@ This is a web application that allows users to add and view user details.
 
 2. **Install Dependencies**:
    
-  pip install python
+    pip install python
   
-  pip install django
+    pip install django
   
-  npm install bootstrap
+    npm install bootstrap
   
-  npm install jquery
+    npm install jquery
 
 4. **Run the Application**:
    
-  python manage.py runserver
+    python manage.py runserver
 
 
 6. **Access the Application**:
