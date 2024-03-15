@@ -13,7 +13,7 @@ This is a web application that allows users to add and view user details.
 - **Django**: Django framework is used for developing the web application.
 - **HTML/CSS**: Frontend design and styling are done using HTML and CSS.
 - **Bootstrap**: Bootstrap framework is used for responsive design and layout.
-- **SQLite**: SQLite database is used to store user details.
+- **MySQL**: MySQL database is used to store user details.
 
 ## Setup Instructions
 
