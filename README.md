@@ -18,7 +18,7 @@ This is a web application that allows users to add and view user details.
 ## Setup Instructions
 
 1. **Clone the Repository**:
-   https://github.com/Narendra9102/user_details.git
+   [https://github.com/Narendra9102/user_details.git](https://github.com/Narendra9102/user_details.git)
 
 2. **Install Dependencies**:
   pip install python
@@ -46,8 +46,6 @@ Open your web browser and go to [http://localhost:8000](http://localhost:8000).
 
 ## Screenshots
 
-![Add User](screenshots/add_user.png)
-![User Details](screenshots/user_details.png)
 
 
 
